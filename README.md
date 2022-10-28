@@ -1,2 +1,2 @@
 # DSA
-Good questions
+Good questions for cracking MNCs
